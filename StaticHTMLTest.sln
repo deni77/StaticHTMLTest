@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticHTMLTest", "StaticHTMLTest\StaticHTMLTest.csproj", "{92883836-4F48-406B-9652-CDB3674737FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92883836-4F48-406B-9652-CDB3674737FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92883836-4F48-406B-9652-CDB3674737FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92883836-4F48-406B-9652-CDB3674737FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92883836-4F48-406B-9652-CDB3674737FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1BAB7FD-2E30-4E4B-A08E-A0A32255E24F}
+	EndGlobalSection
+EndGlobal
